@@ -11,9 +11,9 @@ This deliverable focuses on building regression models to predict a target varia
 
 ## 📊 Dataset Summary
 
-**Dataset Name:** Titanic Passenger Dataset
-**Source:** Kaggle (Public Dataset)
-**Number of Records:** 891
+**Dataset Name:** Titanic Passenger Dataset  
+**Source:** Kaggle (Public Dataset)  
+**Number of Records:** 891  
 **Primary Target Variable (for this deliverable):** Fare
 
 ### Key Attributes Used for Modeling:
