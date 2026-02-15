@@ -87,7 +87,14 @@ Together, these methods help organizations make data-driven decisions and uncove
 
 ---
 
-## Overall Summary
+## 📁 Repository Contents (for this deliverable)
+
+- `MSCS_634_ProjectDeliverable_3.ipynb` – Complete implementation with code, comments, and visualizations.
+- `README.md` – Project summary, classification insights, clustering insights, real-world applications, and challenges and solutions.
+
+---
+
+## Conclusion
 
 This deliverable demonstrated how classification, clustering, and association rule mining can be used together to generate both predictive and descriptive insights. The models confirmed that factors such as passenger class, fare, and sex played major roles in survival, while clustering and association rules revealed meaningful passenger segments and behavioral patterns. These techniques illustrate the power of data mining methods in solving real-world analytical problems.
 

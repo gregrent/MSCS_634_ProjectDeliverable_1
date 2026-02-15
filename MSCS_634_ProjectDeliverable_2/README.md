@@ -1,5 +1,5 @@
-# Advanced Data Mining for Data-Driven Insights and Predictive Modeling
-## Deliverable 2: Regression Modeling and Performance Evaluation
+# MSCS 634 - Project Deliverable 2
+## Regression Modeling and Performance Evaluation
 
 ---
 
@@ -14,6 +14,7 @@ This deliverable focuses on building regression models to predict a target varia
 **Dataset Name:** Titanic Passenger Dataset  
 **Source:** Kaggle (Public Dataset)  
 **Number of Records:** 891  
+**Number of Attributes:** 12
 **Primary Target Variable (for this deliverable):** Fare
 
 ### Key Attributes Used for Modeling:
@@ -70,7 +71,7 @@ Two regression models were developed and compared:
 Models were evaluated using:
 - **R² (Coefficient of Determination):** Measures how well the model explains variance.
 - **Mean Squared Error (MSE):** Average squared difference between predicted and actual values.
-- **Root Mean Squared Error (RMSE):** Square root of MSE for interpretability.
+- **Root Mean Squared Error (RMSE):** Square root of MSE for interpretability. Provides error interpretation in the same units as the target variable.
 
 ### Cross-Validation
 - 5-fold cross-validation was used to evaluate model generalization.
@@ -110,8 +111,8 @@ Models were evaluated using:
 
 ## 📁 Repository Contents (for this deliverable)
 
-- `MSCS_634_ProjectDeliverable_2.ipynb` – Regression models and evaluation
-- `README.md` – Project summary, modeling process, insights, and challenges
+- `MSCS_634_ProjectDeliverable_2.ipynb` – Complete regression implementation with code, comments, and visualizations.
+- `README.md` – Project summary, modeling process, insights, and challenges.
 
 ---
 
